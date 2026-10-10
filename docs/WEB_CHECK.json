@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-10-10",
+  "method": "Readable primary pages returned by the web retrieval tool after automated GET failures. No HTTP response code is inferred from web-reader success.",
+  "results": [
+    {
+      "url": "https://arxiv.org/html/2511.02834v2",
+      "result": "readable_via_web_reader",
+      "automated_result": "network_error",
+      "note": "Title and primary page content returned; method content had also been read during source research."
+    },
+    {
+      "url": "https://arxiv.org/html/2604.04847v1",
+      "result": "readable_via_web_reader",
+      "automated_result": "network_error",
+      "note": "Title and primary page content returned; method content had also been read during source research."
+    },
+    {
+      "url": "https://arxiv.org/html/2609.25611v1",
+      "result": "readable_via_web_reader",
+      "automated_result": "network_error",
+      "note": "Title and primary page content returned; method content had also been read during source research."
+    },
+    {
+      "url": "https://arxiv.org/html/2609.31847v1",
+      "result": "readable_via_web_reader",
+      "automated_result": "network_error",
+      "note": "Title and primary page content returned; method content had also been read during source research."
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-realtime/",
+      "result": "readable_via_web_reader",
+      "automated_result": "http_error",
+      "note": "Official dated release and Function calling, Remote MCP server support, and Image input sections returned."
+    }
+  ]
+}
